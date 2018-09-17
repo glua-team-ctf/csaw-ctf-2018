@@ -1,22 +1,22 @@
 # CSAW CTF 2018
 
 ## Completed
-- bigboy
-- get it?
-- bin_t
-- A Tour of x86 - Part 1
-- Ldab
-- babycrypto
-- Short Circuit
-- flatcrypt
-- A Tour of x86 - Part 2
-- Algebra
-- sso
-- simple_recovery
-- doubletrouble
-- :panda_face: Rewind
-- Hacker Movie Club
-- A Tour of x86 - Part 3
-- whyOS
-- No Vulnerable Services
-- kvm
+- [bigboy](bigboy/README.md)
+- [get it?](getit/README.md)
+- [bin_t](bin_t/README.md)
+- [A Tour of x86 - Part 1](atourx86p1/README.md)
+- [Ldab](ldab/README.md)
+- [babycrypto](babycrypto/README.md)
+- [Short Circuit](shortcircuit/README.md)
+- [flatcrypt](flatcrypt/README.md)
+- [A Tour of x86 - Part 2](atourx86p2/README.md)
+- [Algebra](algebra/README.md)
+- [sso](sso/README.md)
+- [simple_recovery](simplerecovery/README.md)
+- [doubletrouble](doubletrouble/README.md)
+- [:panda_face: Rewind](rewind/README.md)
+- [Hacker Movie Club](hackermovieclub/README.md)
+- [A Tour of x86 - Part 3](atourx86p3/README.md)
+- [whyOS](whyOS/README.md)
+- [No Vulnerable Services](novulnerableservices/README.md)
+- [kvm](kvm/README.md)
